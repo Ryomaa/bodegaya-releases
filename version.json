@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.9",
-  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.9-arm64.apk",
-  "notas": "Panel de admin: resumen de ingresos (cobrado y por cobrar), menú de acciones más claro y edición de códigos.",
-  "versionCode": 2010
+  "versionName": "1.0.10",
+  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.10-arm64.apk",
+  "notas": "Los errores ahora muestran un mensaje corto (Acceso denegado / Fallo al cargar). El detalle técnico queda en la consola.",
+  "versionCode": 2011
 }
