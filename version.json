@@ -1,5 +1,6 @@
 {
-  "versionName": "1.0.7",
-  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.7-arm64.apk",
-  "notas": "Pago en cuotas, control de cuotas en administración y mejoras del perfil del negocio"
+  "versionName": "1.0.8",
+  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.8-arm64.apk",
+  "notas": "Cuotas: pago en 3 o 6 cuotas al crear el código. Panel de admin: editar códigos (empresa, plan y precio) y ver el valor de cada cuota.",
+  "versionCode": 2009
 }
