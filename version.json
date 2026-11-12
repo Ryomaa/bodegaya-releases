@@ -1,5 +1,5 @@
 {
-  "versionName": "1.0.5",
-  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.5-arm64.apk",
-  "notas": "Actualización automática más simple y mejoras en la app"
+  "versionName": "1.0.6",
+  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.6-arm64.apk",
+  "notas": "Perfil del negocio con logo en boletas, compras pagadas o pendientes por cliente, servicios extra y clientes editables"
 }
