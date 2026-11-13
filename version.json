@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.10",
-  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.10-arm64.apk",
-  "notas": "Los errores ahora muestran un mensaje corto (Acceso denegado / Fallo al cargar). El detalle técnico queda en la consola.",
-  "versionCode": 2011
+  "versionName": "1.0.11",
+  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.11-arm64.apk",
+  "notas": "Importar inventario: lectura de Excel más robusta (.xlsx de otras herramientas). Si no se puede leer, el mensaje indica guardar como CSV. Los errores muestran un mensaje corto.",
+  "versionCode": 2012
 }
