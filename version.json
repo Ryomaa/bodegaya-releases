@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.14",
-  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.14-arm64.apk",
-  "notas": "Venta a fiado: el saldo del cliente incluye los servicios extra. El campo Cliente aparece antes de los servicios extra.",
-  "versionCode": 2015
+  "versionName": "1.0.15",
+  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.15-arm64.apk",
+  "notas": "Nuevo botón 'Vender servicio' junto a Vender: registra servicios (ej. mantención) sin descontar stock, también fiados. En Inventario > Más opciones puedes buscar actualizaciones manualmente.",
+  "versionCode": 2016
 }
