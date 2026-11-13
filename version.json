@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.12",
-  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.12-arm64.apk",
-  "notas": "Venta a fiado: si no hay cliente elegido, la app avisa y no registra la venta. Los mensajes de validación se muestran completos.",
-  "versionCode": 2013
+  "versionName": "1.0.13",
+  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.13-arm64.apk",
+  "notas": "El Excel de ventas incluye una fila TOTAL con la cantidad y el monto vendido.",
+  "versionCode": 2014
 }
