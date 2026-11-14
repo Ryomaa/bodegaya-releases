@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.16",
-  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.16-arm64.apk",
-  "notas": "En la ficha del cliente puedes enviar un comprobante PDF con las compras que aún no ha pagado.",
-  "versionCode": 2017
+  "versionName": "1.0.17",
+  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.17-arm64.apk",
+  "notas": "Carrito para vender varios productos en un solo recibo, servicios que descuentan stock, fiados y abonos consistentes, respaldo con clientes y revisión de actualización al volver a la app.",
+  "versionCode": 2018
 }
