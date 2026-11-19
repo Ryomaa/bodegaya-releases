@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.18",
-  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.18-arm64.apk",
-  "notas": "Diseño nuevo en toda la app. En fiados: editar nombre y teléfono del cliente, cambiar las unidades de una compra, borrar compras (se devuelve el stock), registrar abonos, marcar compras como pagadas y compartir el comprobante. El cierre de turno en PDF también usa el nuevo diseño.",
-  "versionCode": 2019
+  "versionName": "1.0.19",
+  "apkUrl": "https://raw.githubusercontent.com/Ryomaa/bodegaya-releases/main/apk/Bodegaya-1.0.19-arm64.apk",
+  "notas": "Si tu cuenta no se puede vincular a este celular, la app te indica cómo pedir ayuda por WhatsApp. Mejoras en la activación de cuentas.",
+  "versionCode": 2020
 }
